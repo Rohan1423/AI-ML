@@ -71,8 +71,27 @@ ii. Hierarchical Clustering
 
 Example: Chess, Snake & Ladder Game,  Robotics, Self Driving Cars
 
--> Some Unsupervised Algos :- 
+-> Some Reinforcement Learning Algos :- 
 1) Q-Learning
 2) DQN
 3) Policy Gradient Methods
 4) PPO
+
+=> Deep Learning
+
+-> Neural Networks
+
+i. Forward Propagation
+ii. Backward Propagation
+
+=> Neural Network Architectures :-
+
+i. FNN -> eg: Loan Approval,Medical Diagnosis 
+ii. RNN -> LSTM -> eg: Loan Approval,Medical Diagnosis 
+iii. CNN -> eg: Object CLassification, Object Detection & for Video Analysis
+iv. Transformers -> eg: GPT
+v. Gen AI -> eg: Generate new Image, Audio, Video, Text
+
+-> NLP & LLM
+
+-> Computer Vision -> eg: Face Recognition
